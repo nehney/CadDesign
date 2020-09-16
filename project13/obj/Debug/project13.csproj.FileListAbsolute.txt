@@ -1,0 +1,11 @@
+C:\Users\k-oda\source\repos\project13\project13\bin\Debug\project13.exe.config
+C:\Users\k-oda\source\repos\project13\project13\bin\Debug\project13.exe
+C:\Users\k-oda\source\repos\project13\project13\bin\Debug\project13.pdb
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.LoadingForm.resources
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.Properties.Resources.resources
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.csproj.GenerateResource.cache
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.csproj.CoreCompileInputs.cache
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.exe
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.pdb
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.MainForm.resources
+C:\Users\k-oda\source\repos\project13\project13\obj\Debug\project13.csprojAssemblyReference.cache
